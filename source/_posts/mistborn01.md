@@ -1,5 +1,5 @@
 ---
-title: mistborn01
+title: Mistborn01
 date: 2025-03-26 11:30:55
 categories: 
     - [Reading,Brandon Sanderson,Mistborn]
@@ -11,6 +11,7 @@ categories:
 本文涉及部分剧透，如若介意请酌情观看
 !!!
 </p>
+<!-- more -->
 
 ### 力量与内心 ~~奇卡拉和扣扣喽()~~
 <b>到底什么样的人是<font color="9900CC">英雄</font>？

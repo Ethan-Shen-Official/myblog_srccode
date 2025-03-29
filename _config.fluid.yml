@@ -978,7 +978,7 @@ about:
   banner_img: /img/bg/post_bg.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  avatar: /img/me/avatar.png
+  avatar: /img/me/avatar.jpg
   name: "Ethan_Shen"
   intro: "I HATE Programming"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
@@ -986,7 +986,7 @@ about:
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com", tip: "GitHub" }
     - { class: "iconfont icon-telegram-fill", link: "https://t.me", tip: "Telegram" }
-    - { class: "iconfont icon-wechat-fill", qrcode: "/img/me/qrcode.png" }
+    - { class: "iconfont icon-wechat-fill", qrcode: "/img/me/qrcode.jpg" }
 
 
 #---------------------------
